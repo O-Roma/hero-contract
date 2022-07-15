@@ -5412,10 +5412,16 @@
       "links": {},
       "address": "0x6cDE22987d083e50A2613d5F0Edd39F8bAe6E3Fd",
       "transactionHash": "0x3950cafaf608b7ea0df1a77f0ad66dd75b8f96a05505ca3f3f9fdd5020460e5c"
+    },
+    "1657911167779": {
+      "events": {},
+      "links": {},
+      "address": "0xAB6293E99489DbCa0C6B40D8ae2a203749AF9331",
+      "transactionHash": "0x6ca34690fb5182a67ef62d7e1d88f077b87bddebb21de6b207c2363f100104f1"
     }
   },
   "schemaVersion": "3.4.8",
-  "updatedAt": "2022-07-14T20:44:43.817Z",
+  "updatedAt": "2022-07-15T18:54:16.409Z",
   "networkType": "ethereum",
   "devdoc": {
     "kind": "dev",
